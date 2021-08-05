@@ -2,6 +2,7 @@
 set -e
 
 echo Namespace = "$1"
+
 NAMESPACE=$1
 RELEASE_NAME="$2"
 
